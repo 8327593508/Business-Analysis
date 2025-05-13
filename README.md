@@ -73,8 +73,8 @@ This project analyzes sales data across different regions, customer segments, an
 
 ## 📂 Downloads
 
-- 📥 [Download Dataset (CSV)](https://drive.google.com/drive/folders/1i9_GNoFwRzimNZrbSUevrqN-4DzYiJtr?usp=sharing)  
-- 📊 [Download Project Solution (DOCX)](https://drive.google.com/drive/folders/1i9_GNoFwRzimNZrbSUevrqN-4DzYiJtr?usp=sharing)  
+- 📥 [Download Dataset](https://drive.google.com/drive/folders/1i9_GNoFwRzimNZrbSUevrqN-4DzYiJtr?usp=sharing)  
+- 📊 [Download Project Solution](https://drive.google.com/drive/folders/1i9_GNoFwRzimNZrbSUevrqN-4DzYiJtr?usp=sharing)  
 
 ---
 
