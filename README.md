@@ -1,6 +1,6 @@
 # 📊 Sales Performance & Customer Insights Analysis
 
-Welcome to my end-to-end Sales Data Analysis project, where I dive deep into customer behavior, purchasing patterns, and product performance using Power BI and Excel.
+Welcome to my end-to-end Sales Data Analysis project, where I dive deep into customer behavior, purchasing patterns, and product performance using Excel.
 
 ---
 
@@ -13,8 +13,6 @@ This project analyzes sales data across different regions, customer segments, an
 ## 🛠️ Tools & Technologies Used
 
 - Microsoft Excel (Power Query Editor)
-- Power BI (for data visualization)
-- DAX (Data Analysis Expressions)
 - Power Query M Language
 - Data Cleaning & Transformation
 
@@ -22,7 +20,7 @@ This project analyzes sales data across different regions, customer segments, an
 
 ## 📸 Dashboard Previews
 
-### 🔹 Power BI Sales Dashboard
+### 🔹Sales Dashboard
 
 ![Sales Dashboard 1](./images/dashboard_overview.png)
 
@@ -75,9 +73,8 @@ This project analyzes sales data across different regions, customer segments, an
 
 ## 📂 Downloads
 
-- 📥 [Download Dataset (CSV)](./data/sales_data.csv)  
-- 📊 [Download Project Report (DOCX)](./docs/Sales_Analysis_Report.docx)  
-- 📈 [Download Power BI Dashboard (.pbix)](./solutions/SalesDashboard.pbix)  
+- 📥 [Download Dataset (CSV)](https://drive.google.com/drive/folders/1i9_GNoFwRzimNZrbSUevrqN-4DzYiJtr?usp=sharing)  
+- 📊 [Download Project Solution (DOCX)](https://drive.google.com/drive/folders/1i9_GNoFwRzimNZrbSUevrqN-4DzYiJtr?usp=sharing)  
 
 ---
 
@@ -86,8 +83,7 @@ This project analyzes sales data across different regions, customer segments, an
 **Subham Das**  
 🎓 Data Analyst | Educator | Dashboard Developer  
 📧 subhamdas@example.com  
-🌐 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🌐 [Portfolio Website](https://yourwebsite.com)
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/subham-das-6a7809198/?trk=opento_sprofile_details)  
 
 ---
 
