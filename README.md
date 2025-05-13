@@ -47,7 +47,7 @@ This project analyzes sales data across different regions, customer segments, an
 - Cleaned missing/null values.
 - Split complex fields (address, product details).
 - Converted data types for consistency.
-- Loaded cleaned data into Power BI for reporting.
+- Loaded cleaned data into Excel for reporting.
 
 ---
 
