@@ -1,4 +1,4 @@
-# 📊 Sales Performance & Customer Insights Analysis
+# 📊 Business Performance & Customer Insights Analysis
 
 Welcome to my end-to-end Sales Data Analysis project, where I dive deep into customer behavior, purchasing patterns, and product performance using Excel.
 
@@ -82,7 +82,7 @@ This project analyzes sales data across different regions, customer segments, an
 
 **Subham Das**  
 🎓 Data Analyst | Educator | Dashboard Developer  
-📧 subhamdas@example.com  
+📧 subham.das.jobs08@gmail.com  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/subham-das-6a7809198/?trk=opento_sprofile_details)  
 
 ---
