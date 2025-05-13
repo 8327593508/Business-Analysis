@@ -22,11 +22,11 @@ This project analyzes sales data across different regions, customer segments, an
 
 ### 🔹Sales Dashboard
 
-![Sales Dashboard 1](./images/dashboard_overview.png)
+![image](https://github.com/user-attachments/assets/f73d2c8b-246b-4018-867d-b076599b6222)
 
 ### 🔹 Cross-Selling Matrix
 
-![Cross Selling](./images/cross_selling_matrix.png)
+![image](https://github.com/user-attachments/assets/88e66dea-d9d4-4e81-8c77-dbff210d0572)
 
 > *Each chart provides a visual summary of product sales, customer segments, preferred payment methods, and regional distribution.*
 
